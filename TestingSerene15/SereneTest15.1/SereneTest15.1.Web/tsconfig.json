@@ -1,0 +1,20 @@
+﻿{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "preserveConstEnums": true,
+    "experimentalDecorators": true,
+    "declaration": true,
+    "emitBOM": true,
+    "sourceMap": true,
+    "outFile": "Scripts/site/SereneTest15._1.Web.js",
+    "target": "es5",
+    "typeRoots": [
+      "./node_modules/@types/"
+    ]
+  },
+  "include": [
+    "./Imports/",
+    "./Modules/",
+    "./Scripts/typings/"
+  ]
+}
